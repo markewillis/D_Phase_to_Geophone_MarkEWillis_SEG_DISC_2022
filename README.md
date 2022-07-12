@@ -6,8 +6,5 @@ The main gui function is D_Phase_to_Geophone_MarkEWillis_SEG_DISC_2022 which is 
 
 You can install the application directly into your Matlab session using the D_Phase_to_Geophone_MarkEWillis_SEG_DISC_2022.mlappinstall file.
 
-<<<<<<< HEAD
 This software is a part of the Society of Exploration Geophysicists Distinguished Instructor Short Course given by Mark E. Willis in 2022-2023.
-=======
-This software is a part of the Society of Exploration Geophysicists Distinguished Instructor Short Course given by Mark E. Willis in 2022-2023.
->>>>>>> b78bc49a506f12defd09a1128351dd34e7a9b0bc
+
