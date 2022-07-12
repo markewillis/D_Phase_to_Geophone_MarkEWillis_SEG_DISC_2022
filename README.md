@@ -8,3 +8,4 @@ You can install the application directly into your Matlab session using the D_Ph
 
 This software is a part of the Society of Exploration Geophysicists Distinguished Instructor Short Course given by Mark E. Willis in 2022-2023.
 
+Release 1 for class
